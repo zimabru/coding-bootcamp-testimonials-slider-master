@@ -37,9 +37,7 @@ Desktop design:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Live Site URL: https://coding-bootcamp-testimonials-slider-master-opal.vercel.app/
 ## My process
 
 ### Built with
